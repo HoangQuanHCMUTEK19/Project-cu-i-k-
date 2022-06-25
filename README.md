@@ -1,6 +1,11 @@
 Link file model đã train :
 https://drive.google.com/file/d/1GQxPLVpVSXDYo_Bo0uoUdIzvM4OqaAWZ/view?usp=sharing
 
+Link video thực hiện 
+
+https://www.youtube.com/watch?v=qOc8iuw7UhQ
+
+
 Kết quả thực hiện: 
 
 ![image](https://user-images.githubusercontent.com/105483714/175755099-0cc16b7b-dff8-4505-af85-4e47d6b365b2.png)
@@ -16,4 +21,6 @@ Kết quả thực hiện:
 
 
 ![image](https://user-images.githubusercontent.com/105483714/175755153-37eb5cc7-8116-426d-81d2-ad29e0d070ec.png)
+
+
 
